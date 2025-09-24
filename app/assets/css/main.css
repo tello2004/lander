@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+html {
+  scroll-behavior: smooth;
+}
+
+.logo-inverted {
+  filter: invert(1);
+}
